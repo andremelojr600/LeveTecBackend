@@ -1,0 +1,24 @@
+{
+  "name": "levetec",
+  "version": "1.0.0",
+  "description": "Segunda etapa LeveTec",
+  "main": "server.js",
+  "author": "Carlos André Albuquerque de Melo Júnior",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.0"
+  },
+  "keywords": [
+    "Express",
+    "RestAPI",
+    "MongoDB",
+    "Mongoose",
+    "BackEnd"
+  ],
+  "devDependencies": {
+    "eslint": "^7.7.0",
+    "eslint-plugin-react": "^7.20.6"
+  }
+}
